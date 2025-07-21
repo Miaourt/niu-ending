@@ -4,7 +4,7 @@ NIU.MOE has been a cozy place on the fediverse from April 2017 up to the last da
 
 I wanted to put something instead of a blank page, in memory of the community, so there it is !
 
-It have been made with https://animejs.com/ and a bunch of dirty hardcoded hacks. Could be better but 😴.
+It have been made with https://animejs.com/v3 and a bunch of dirty hardcoded hacks. Could be way better but 😴.
 
 # Some credits :
 - Bunnies emojis are from [Volpeon (ex Feuerfuchs)](https://volpeon.ink/emojis/bunhd/)
